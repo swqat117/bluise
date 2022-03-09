@@ -37,7 +37,7 @@ module.exports = {
     'import/no-dynamic-require': 0,
     'global-require': 0,
     'no-underscore-dangle': 0,
-    'class-methods-use-this': 0,
+    'class-methods-use-this': 0, 
     'vue/max-attributes-per-line': 'off',
     'vue/component-name-in-template-casing': [1, 'kebab-case'],
   },
